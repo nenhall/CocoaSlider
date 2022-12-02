@@ -1,5 +1,7 @@
 # CocoaSlider
-macOS 对 NSSlider 的封装，支持双向滑动及支持 SwiftUI 工程
+macOS 对 NSSlider 的封装，支持单向/双向滑动及支持 SwiftUI 工程
+
+support macOS：10.15 and after
 
 AppKit
 
