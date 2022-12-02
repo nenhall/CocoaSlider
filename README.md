@@ -39,4 +39,4 @@ struct SwiftUIView: View {
 }
 ```
 
-![slider](https://github.com/nenhall/CocoaSlider/blob/develop/slider.md)
+![slider](https://github.com/nenhall/CocoaSlider/blob/main/slider.png)
